@@ -24,9 +24,9 @@
 
 ## 📂 How to Run
 ```bash
-1. 使用 **Adobe Animate CC** 開啟 `story_game.fla`
+1. 使用 Adobe Animate CC 開啟 story_game.fla
 2. 進入主場景查看場景結構、按鈕元件與 ActionScript
-3. 按 `Ctrl + Enter` 執行遊戲，體驗完整流程
+3. 按 Ctrl + Enter 執行遊戲，體驗完整流程
 ```
 
 
