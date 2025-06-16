@@ -31,6 +31,9 @@ Maya 與 Animate CC 製作的 3D 建模、動畫與互動遊戲。
 ### 📌 [Kubrick_Bear_CG_Dance](./Kubrick_Bear_CG_Dance)
 結合 Maya 與 C 語言製作，模擬機器人舞蹈效果。
 
+### 📌 [AnimateCC_StoryGame](./AnimateCC_StoryGame)
+透過 Animate CC 時間軸動畫、元件與 ActionScript 實現完整互動邏輯。
+
 ---
 
 ## ✨ Contact | 聯絡方式
