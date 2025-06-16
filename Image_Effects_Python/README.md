@@ -53,26 +53,17 @@ python code/風格化.py
 
 ## 📊 Demo 圖片示例
 
-| 原圖 | 特效結果 |
-|------|-----------|
-| <img src="images/input_sample_1.png" width="200"/> | <img src="images/effect_result_1.png" width="200"/> |
-| <img src="images/input_sample_2.png" width="200"/> | <img src="images/effect_result_2-1.png" width="200"/> |
-| <img src="images/input_sample_2.png" width="200"/> | <img src="images/effect_result_2-2.png" width="200"/> |
-| <img src="images/input_sample_3.png" width="200"/> | <img src="images/effect_result_3-1.png" width="200"/> |
-| <img src="images/input_sample_3.png" width="200"/> | <img src="images/effect_result_3-2.png" width="200"/> |
-| <img src="images/input_sample_4.png" width="200"/> | <img src="images/effect_result_4-1.png" width="200"/> |
-| <img src="images/input_sample_4.png" width="200"/> | <img src="images/effect_result_4-2.png" width="200"/> |
-| <img src="images/input_sample_4.png" width="200"/> | <img src="images/effect_result_4-3.png" width="200"/> |
-| <img src="images/input_sample_5.png" width="200"/> | <img src="images/effect_result_5.png" width="200"/> |
-| <img src="images/input_sample_6.png" width="200"/> | <img src="images/effect_result_6-1.png" width="200"/> |
-| <img src="images/input_sample_6.png" width="200"/> | <img src="images/effect_result_6-2.png" width="200"/> |
-| <img src="images/input_sample_7.png" width="200"/> | <img src="images/effect_result_7-1.png" width="200"/> |
-| <img src="images/input_sample_8.png" width="200"/> | <img src="images/effect_result_8-1.png" width="200"/> |
-| <img src="images/input_sample_8.png" width="200"/> | <img src="images/effect_result_8-2.png" width="200"/> |
-| <img src="images/input_sample_8.png" width="200"/> | <img src="images/effect_result_8-3.png" width="200"/> |
-| <img src="images/input_sample_7.png" width="200"/> | <img src="images/effect_result_7-2.png" width="200"/> |
-| <img src="images/input_sample_7.png" width="200"/> | <img src="images/effect_result_7-3.png" width="200"/> |
-| <img src="images/input_sample_7.png" width="200"/> | <img src="images/effect_result_7-4.png" width="200"/> |
+| 原圖 | 特效結果1 | 特效結果2 | 特效結果3 |
+|------|-----------|-----------|-----------|
+| <img src="images/input_sample_1.png" width="200"/> | <img src="images/effect_result_1.png" width="200"/> |  |  |
+| <img src="images/input_sample_2.png" width="200"/> | <img src="images/effect_result_2-1.png" width="200"/> | <img src="images/effect_result_2-2.png" width="200"/> |  |
+| <img src="images/input_sample_3.png" width="200"/> | <img src="images/effect_result_3-1.png" width="200"/> | <img src="images/effect_result_3-2.png" width="200"/> |  |
+| <img src="images/input_sample_4.png" width="200"/> | <img src="images/effect_result_4-1.png" width="200"/> | <img src="images/effect_result_4-2.png" width="200"/> | <img src="images/effect_result_4-3.png" width="200"/> |
+| <img src="images/input_sample_5.png" width="200"/> | <img src="images/effect_result_5.png" width="200"/> |  |  |
+| <img src="images/input_sample_6.png" width="200"/> | <img src="images/effect_result_6-1.png" width="200"/> | <img src="images/effect_result_6-2.png" width="200"/> |  |
+| <img src="images/input_sample_7.png" width="200"/> | <img src="images/effect_result_7-1.png" width="200"/> | <img src="images/effect_result_7-2.png" width="200"/> | <img src="images/effect_result_7-3.png" width="200"/> |
+| <img src="images/input_sample_8.png" width="200"/> | <img src="images/effect_result_8-1.png" width="200"/> | <img src="images/effect_result_8-2.png" width="200"/> | <img src="images/effect_result_8-3.png" width="200"/> |
+| <img src="images/input_sample_7.png" width="200"/> | <img src="images/effect_result_7-4.png" width="200"/> |  |  |
 
 
 ## 📄 Related Report
