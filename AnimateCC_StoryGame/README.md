@@ -35,6 +35,7 @@
 | 主畫面 | 故事 |
 |------------|--------|
 | <img src="images/home.png" width="300"/> |<img src="images/story.png" width="300"/> |
+
 | 規則 | 電流急急棒 |
 |------------|--------|
 | <img src="images/rule.png" width="300"/> | <img src="images/wire_game.png" width="300"/> |
