@@ -26,6 +26,7 @@
     <th>建築外觀</th>
     <th>建築外觀</th>
     <th>蛋糕展示櫃</th>
+    <th></th>
   </tr>
   <tr>
     <td><img src="images/exterior1.png" width="200"></td>
@@ -33,52 +34,32 @@
     <td><img src="images/interior5.png" width="200"></td>
   </tr>
 
-  <!-- 區塊 2: 座位區 -->
+  <!-- 區塊 2: 座位區 -->  <!-- 區塊 3: 櫃台與吧檯 -->
   <tr>
     <th>座位區</th>
     <th>座位區</th>
-    <th></th>
+    <th>櫃台與吧檯</th>
+    <th>櫃台與吧檯</th>
   </tr>
   <tr>
     <td><img src="images/interior1.png" width="200"></td>
     <td><img src="images/interior2.png" width="200"></td>
-    <td></td>
-  </tr>
-
-  <!-- 區塊 3: 櫃台與吧檯 -->
-  <tr>
-    <th>櫃台與吧檯</th>
-    <th>櫃台與吧檯</th>
-    <th></th>
-  </tr>
-  <tr>
     <td><img src="images/interior3.png" width="200"></td>
     <td><img src="images/interior4.png" width="200"></td>
-    <td></td>
   </tr>
 
-  <!-- 區塊 4: 製冰機 & 磨豆機 -->
+  <!-- 區塊 4: 製冰機 & 磨豆機 -->  <!-- 區塊 5: 義式咖啡機 -->
   <tr>
     <th>製冰機</th>
     <th>磨豆機</th>
-    <th></th>
+    <th>義式咖啡機</th>
+    <th>義式咖啡機</th>
   </tr>
   <tr>
     <td><img src="images/detail1.png" width="200"></td>
     <td><img src="images/detail2.png" width="200"></td>
-    <td></td>
-  </tr>
-
-  <!-- 區塊 5: 義式咖啡機 -->
-  <tr>
-    <th>義式咖啡機</th>
-    <th>義式咖啡機</th>
-    <th></th>
-  </tr>
-  <tr>
     <td><img src="images/detail3.png" width="200"></td>
     <td><img src="images/detail4.png" width="200"></td>
-    <td></td>
   </tr>
 
   <!-- 區塊 6: 結帳機 & 回收台 -->
@@ -86,10 +67,12 @@
     <th>結帳機</th>
     <th>回收台</th>
     <th></th>
+    <th></th>
   </tr>
   <tr>
     <td><img src="images/detail5.png" width="200"></td>
     <td><img src="images/detail6.png" width="200"></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
