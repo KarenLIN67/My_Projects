@@ -37,11 +37,22 @@
 
 ## 📸 Game Screen
 
-| 主畫面 | 故事 |
-|------------|--------|
-| <img src="images/home.png" width="300"/> |<img src="images/story.png" width="300"/> |
+<table>
+  <tr>
+    <th>主畫面</th>
+    <th>故事</th>
+  </tr>
+  <tr>
+    <td><img src="images/home.png" width="300"/></td>
+    <td><img src="images/story.png" width="300"/></td>
+  </tr>
 
-| 規則 | 電流急急棒 |
-|------------|--------|
-| <img src="images/rule.png" width="300"/> | <img src="images/wire_game.png" width="300"/> |
-
+  <tr>
+    <th>規則</th>
+    <th>電流急急棒</th>
+  </tr>
+  <tr>
+    <td><img src="images/rule.png" width="300"/></td>
+    <td><img src="images/wire_game.png" width="300"/></td>
+  </tr>
+</table>
