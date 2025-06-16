@@ -5,6 +5,7 @@
 包含像素化、模糊、運動模糊、放射狀模糊、漣漪、魚眼、捻轉，以及非真實感繪製（NPR）效果，  
 可作為數位影像處理與電腦視覺練習示例。
 
+---
 
 ## 🧰 Technologies
 - **Python**
@@ -12,6 +13,7 @@
 - **NumPy**：矩陣與圖像陣列運算
 - **Matplotlib**：顯示圖像
 
+---
 
 ## ✨ Main special effects categories
 ### 1️⃣ 特效處理基礎
@@ -22,6 +24,8 @@
 
 ### 3️⃣ 非真實感繪製 (NPR)
 - 鉛筆素描、懷舊、光照、流年等
+
+---
 
 ## 📂 How to Run
 ```bash
@@ -44,13 +48,17 @@ python code/流年特效.py
 python code/風格化.py
 ```
 
+---
+
 ## 📊 Demo
 以下為本專案執行過程示範影片：
 [👉 點此觀看 Demo 影片](https://drive.google.com/file/d/1WSdk_P8cQOyDvhP1AAoJEKsUPD1LzJbW/view?usp=sharing)
 
 <img src="images/demo_cover.png" width="300"/>
 
-## 📊 Demo 圖片示例
+---
+
+## 📊 Demo Image examples
 
 | 原圖 | 特效結果1 | 特效結果2 | 特效結果3 |
 |------|-----------|-----------|-----------|
