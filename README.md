@@ -31,4 +31,4 @@ Maya 與 Animate CC 製作的 3D 建模、動畫與互動遊戲。
 ---
 
 ## ✨ Contact | 聯絡方式
-- 📧 Email: lincw0607@gmail.com
+- 📧 Email: ji310725@gmail.com
