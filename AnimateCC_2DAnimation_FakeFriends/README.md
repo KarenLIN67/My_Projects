@@ -33,7 +33,7 @@
 
 ---
 
-## 🎥 Demo 影片
+## 🎥 Demo Video
 以下為本專案執行過程影片：
 [👉 點此觀看 Demo 影片](https://drive.google.com/file/d/1QWFVrIhnoS8rd9Efw9S22oNrUGbadP7e/view?usp=sharing)
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📸 動畫場景截圖
+## 📸 Animation Scene
 
 | 場景 | 場景 |
 |--------|--------|
