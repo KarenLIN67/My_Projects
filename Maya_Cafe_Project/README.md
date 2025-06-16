@@ -20,21 +20,76 @@
 
 ## 📸 渲染圖示
 
-| 建築外觀 | 建築外觀 | 蛋糕展示櫃 |
-|----------|----------|----------|
-| <img src="images/exterior1.png" width="200"/> | <img src="images/exterior2.png" width="200"/> |<img src="images/interior5.png" width="200"/> |
-| 座位區 | 座位區 |  |
-|----------|----------|----------|
-| <img src="images/interior1.png" width="200"/> | <img src="images/interior2.png" width="200"/> |  |
-| 櫃台與吧檯 | 櫃台與吧檯 |  |
-|----------|----------|----------|
-| <img src="images/interior3.png" width="200"/> | <img src="images/interior4.png" width="200"/> |  |
-| 製冰機 | 磨豆機 |  |
-|----------|----------|----------|
-| <img src="images/detail1.png" width="200"/> | <img src="images/detail2.png" width="200"/> |  |
-| 義式咖啡機 | 義式咖啡機 |  |
-|----------|----------|----------|
-| <img src="images/detail3.png" width="200"/> | <img src="images/detail4.png" width="200"/> |  |
-| 結帳機 | 回收台 |  |
-|----------|----------|----------|
-| <img src="images/detail5.png" width="200"/> | <img src="images/detail6.png" width="200"/> |  |
+<table>
+  <!-- 區塊 1: 建築外觀 -->
+  <tr>
+    <th>建築外觀</th>
+    <th>建築外觀</th>
+    <th>蛋糕展示櫃</th>
+  </tr>
+  <tr>
+    <td><img src="images/exterior1.png" width="200"></td>
+    <td><img src="images/exterior2.png" width="200"></td>
+    <td><img src="images/interior5.png" width="200"></td>
+  </tr>
+
+  <!-- 區塊 2: 座位區 -->
+  <tr>
+    <th>座位區</th>
+    <th>座位區</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="images/interior1.png" width="200"></td>
+    <td><img src="images/interior2.png" width="200"></td>
+    <td></td>
+  </tr>
+
+  <!-- 區塊 3: 櫃台與吧檯 -->
+  <tr>
+    <th>櫃台與吧檯</th>
+    <th>櫃台與吧檯</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="images/interior3.png" width="200"></td>
+    <td><img src="images/interior4.png" width="200"></td>
+    <td></td>
+  </tr>
+
+  <!-- 區塊 4: 製冰機 & 磨豆機 -->
+  <tr>
+    <th>製冰機</th>
+    <th>磨豆機</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="images/detail1.png" width="200"></td>
+    <td><img src="images/detail2.png" width="200"></td>
+    <td></td>
+  </tr>
+
+  <!-- 區塊 5: 義式咖啡機 -->
+  <tr>
+    <th>義式咖啡機</th>
+    <th>義式咖啡機</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="images/detail3.png" width="200"></td>
+    <td><img src="images/detail4.png" width="200"></td>
+    <td></td>
+  </tr>
+
+  <!-- 區塊 6: 結帳機 & 回收台 -->
+  <tr>
+    <th>結帳機</th>
+    <th>回收台</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="images/detail5.png" width="200"></td>
+    <td><img src="images/detail6.png" width="200"></td>
+    <td></td>
+  </tr>
+</table>
