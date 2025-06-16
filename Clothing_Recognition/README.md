@@ -20,8 +20,8 @@
 3. 可選擇使用 `code/clothing_recognition.py` 執行整個流程
 
 ## 📊 Demo
-<img src="images/result1.png" width="300"/>
-<img src="images/result2.png" width="300"/>
+![Ankle boot](images/result1.png)
+![Sandal](images/result2.png)
 
 ## 📄 Related Report
 [👉 點此下載 PDF 文字說明檔](./report_word.pdf)
