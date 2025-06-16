@@ -55,7 +55,7 @@ python code/風格化.py
 
 | 原圖 | 特效結果 | 特效結果 |
 |------|-----------|-----------|
-| ![原圖](images/input_sample 1.png) | ![放射狀像素化](images/effect_result 1.png) | |
+| ![原圖](images/input_sample_1.png) | ![放射狀像素化](images/effect_result 1.png) | |
 | ![原圖](images/input_sample 2.png) | ![漣漪特效](images/effect_result 2-1.png) | ![漣漪特效](images/effect_result 2-2.png) |
 | ![原圖](images/input_sample 3.png) | ![魚眼特效](images/effect_result 3-1.png) | ![魚眼特效](images/effect_result 3-2.png) |
 | ![原圖](images/input_sample 4.png) | ![捻轉特效](images/effect_result 4-1.png) | ![捻轉特效](images/effect_result 4-2.png) |
