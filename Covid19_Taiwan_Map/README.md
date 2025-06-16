@@ -5,6 +5,8 @@
 使用 Tkinter 製作 GUI 操作介面，結合 Matplotlib 繪製每日新增確診人數與趨勢折線圖，  
 同時透過 requests 即時抓取公開疫情資料，方便使用者快速查詢與分析。
 
+---
+
 ## 🧰 Technologies
 - **Python**
 - **Tkinter**：製作圖形化使用者介面 (GUI)
@@ -13,18 +15,26 @@
 - **Requests**：即時抓取網路 COVID-19 資料
 - **re**、**NumPy**：文字與數值處理
 
+---
+
 ## 🎯 Key Features
 - 即時抓取最新台灣每日疫情數據
 - 以折線圖呈現趨勢變化
 - 使用者可選擇不同縣市查詢
 - 以 Tkinter 實現桌面操作視窗
 
+---
+
 ## 📂 How to Run
 1. pip install pandas matplotlib requests numpy
 2. 使用 `code/clothing_recognition.py` 執行整個流程
 
+---
+
 ## 📊 Demo
 <img src="images/result1.png" width="300"/>
+
+---
 
 ## 📄 Related Report
 [👉 點此下載 PDF 文字說明檔](./report_word.pdf)
