@@ -24,7 +24,7 @@
 2. 使用 `code/clothing_recognition.py` 執行整個流程
 
 ## 📊 Demo
-![homepage](images/result1.png)
+<img src="images/result1.png" width="200"/>
 
 ## 📄 Related Report
 [👉 點此下載 PDF 文字說明檔](./report_word.pdf)
