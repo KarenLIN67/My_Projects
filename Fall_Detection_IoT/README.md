@@ -7,6 +7,7 @@
 當發生跌倒事件時可透過蜂鳴器警報及語音提示，未來可進一步推送訊息到 IoT 平台，
 有效提升居家安全與照護便利性。
 
+---
 
 ## 🧰 Technologies
 - **Python**
@@ -16,6 +17,7 @@
 - **gTTS & pygame**：語音合成與撥放提示音
 - **Threading**：多執行緒確保系統穩定
 
+---
 
 ## 🎯 Key Features
 - 即時視訊監控與背景差分演算法
@@ -23,6 +25,7 @@
 - 當偵測到跌倒，自動觸發蜂鳴器、LED
 - 自動生成語音提示並播放
 
+---
 
 ## 📂 How to Run
 ```bash
@@ -33,6 +36,7 @@ pip install opencv-python numpy RPi.GPIO gTTS pygame
 # 執行程式
 python `code/fall_detection.py`
 
+---
 
 ## 📊 Demo
 以下為本專案執行過程示範影片：
@@ -40,6 +44,8 @@ python `code/fall_detection.py`
 
 <img src="images/demo_cover1.png" width="300"/>
 <img src="images/demo_cover2.png" width="300"/>
+
+---
 
 ## 📄 Related Report
 [👉 點此下載 PDF 文字說明檔](./report_word.pdf)
