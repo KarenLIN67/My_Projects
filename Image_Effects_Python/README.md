@@ -53,21 +53,26 @@ python code/風格化.py
 
 ## 📊 Demo 圖片示例
 
-| 原圖 | 特效結果 | 特效結果 |
-|------|-----------|-----------|
-| ![原圖](images/input_sample_1.png) | ![放射狀像素化](images/effect_result_1.png) | |
-| ![原圖](images/input_sample_2.png) | ![漣漪特效](images/effect_result_2-1.png) | ![漣漪特效](images/effect_result_2-2.png) |
-| ![原圖](images/input_sample_3.png) | ![魚眼特效](images/effect_result_3-1.png) | ![魚眼特效](images/effect_result_3-2.png) |
-| ![原圖](images/input_sample_4.png) | ![捻轉特效](images/effect_result_4-1.png) | ![捻轉特效](images/effect_result_4-2.png) |
-| ![捻轉特效](images/effect_result_4.png) | ![捻轉特效](images/effect_result_4-3.png) | |
-| ![原圖](images/input_sample_5.png) | ![模糊特效](images/effect_result_5.png) | |
-| ![原圖](images/input_sample_6.png) | ![運動模糊](images/effect_result_6-1.png) | ![運動模糊](images/effect_result_6-2.png) |
-| ![原圖](images/input_sample_7.png) | ![放射狀模糊](images/effect_result_7-1.png) | |
-| ![原圖](images/input_sample_8.png) | ![鉛筆素描](images/effect_result_8-1.png) | ![鉛筆素描](images/effect_result_8-2.png) |
+| 原圖 | 特效結果 |
+|------|-----------|
+| ![原圖](images/input_sample_1.png) | ![放射狀像素化](images/effect_result_1.png) |
+| ![原圖](images/input_sample_2.png) | ![漣漪特效](images/effect_result_2-1.png) |
+| ![原圖](images/input_sample_2.png) | ![漣漪特效](images/effect_result_2-2.png) |
+| ![原圖](images/input_sample_3.png) | ![魚眼特效](images/effect_result_3-1.png) |
+| ![原圖](images/input_sample_3.png) | ![魚眼特效](images/effect_result_3-2.png) |
+| ![原圖](images/input_sample_4.png) | ![捻轉特效](images/effect_result_4-1.png) |
+| ![原圖](images/input_sample_4.png) | ![捻轉特效](images/effect_result_4-2.png) |
+| ![原圖](images/input_sample_4.png) | ![捻轉特效](images/effect_result_4-3.png) |
+| ![原圖](images/input_sample_5.png) | ![模糊特效](images/effect_result_5.png) |
+| ![原圖](images/input_sample_6.png) | ![運動模糊](images/effect_result_6-1.png) |
+| ![原圖](images/input_sample_6.png) | ![運動模糊](images/effect_result_6-2.png) |
+| ![原圖](images/input_sample_7.png) | ![放射狀模糊](images/effect_result_7-1.png) |
+| ![原圖](images/input_sample_8.png) | ![鉛筆素描](images/effect_result_8-1.png) |
+| ![原圖](images/input_sample_8.png) | ![鉛筆素描](images/effect_result_8-2.png) |
 | ![原圖](images/input_sample_8.png) | ![風格化](images/effect_result_8-3.png) | |
-| ![原圖](images/input_sample_7.png) | ![懷舊特效](images/effect_result_7-2.png) | |
-| ![原圖](images/input_sample_7.png) | ![光照特效](images/effect_result_7-3.png) | |
-| ![原圖](images/input_sample_7.png) | ![流年特效](images/effect_result_7-4.png) | |
+| ![原圖](images/input_sample_7.png) | ![懷舊特效](images/effect_result_7-2.png) |
+| ![原圖](images/input_sample_7.png) | ![光照特效](images/effect_result_7-3.png) |
+| ![原圖](images/input_sample_7.png) | ![流年特效](images/effect_result_7-4.png) |
 
 
 ## 📄 Related Report
