@@ -24,7 +24,7 @@
 ![Sandal](images/result2.png)
 
 ## 📄 Related Report
-[👉 點此下載 文字說明檔](./report_word.pdf)
+[👉 點此下載 PDF 文字說明檔](./report_word.pdf)
 
-[👉 點此下載 簡報檔](./report_ppt.pdf)
+[👉 點此下載 PPT 簡報檔](./report_ppt.pdf)
 
