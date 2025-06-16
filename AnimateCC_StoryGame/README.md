@@ -10,17 +10,21 @@
 
 透過 Animate CC 時間軸動畫、元件與 ActionScript 實現完整互動邏輯。
 
+---
+
 ## 🧰 Technologies
 - **Adobe Animate CC (.fla)**
 - **ActionScript 3.0**
 - **元件符號、按鈕、場景管理**
 
+---
 
 ## 🎯 Key Features
 - 使用 Animate CC 建立場景與角色元件
 - 撰寫簡易 ActionScript 控制移動與碰撞
 - 遊戲包含基本得分或結束條件
 
+---
 
 ## 📂 How to Run
 ```bash
@@ -29,8 +33,9 @@
 3. 按 Ctrl + Enter 執行遊戲，體驗完整流程
 ```
 
+---
 
-## 📸 遊戲畫面截圖
+## 📸 Game Screen
 
 | 主畫面 | 故事 |
 |------------|--------|
