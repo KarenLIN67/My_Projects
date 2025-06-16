@@ -28,6 +28,9 @@
 ### 📌 [3D Models & Animations](./3D_Models_and_Animations)
 Maya 與 Animate CC 製作的 3D 建模、動畫與互動遊戲。
 
+### 📌 [Kubrick_Bear_CG_Dance](./Kubrick_Bear_CG_Dance)
+結合 Maya 與 C 語言製作，模擬機器人舞蹈效果。
+
 ---
 
 ## ✨ Contact | 聯絡方式
