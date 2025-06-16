@@ -25,14 +25,17 @@
 ### 📌 [Image Effects with Python](./Image_Effects_Python)
 用 Python 實現多種影像特效，探索創意編程。
 
-### 📌 [3D Models & Animations](./3D_Models_and_Animations)
-Maya 與 Animate CC 製作的 3D 建模、動畫與互動遊戲。
+### 📌 [Maya_Cafe_Project](./Maya_Cafe_Project)
+以 Autodesk Maya 製作，從零開始設計一間符合自己飲食習慣與生活理念的咖啡廳。
 
 ### 📌 [Kubrick_Bear_CG_Dance](./Kubrick_Bear_CG_Dance)
 結合 Maya 與 C 語言製作，模擬機器人舞蹈效果。
 
 ### 📌 [AnimateCC_StoryGame](./AnimateCC_StoryGame)
 透過 Animate CC 時間軸動畫、元件與 ActionScript 實現完整互動邏輯。
+
+### 📌 [AnimateCC_2DAnimation_FakeFriends](./AnimateCC_2DAnimation_FakeFriends)
+透過 Animate CC 設計完整的歌詞動畫與配套角色表演，呈現 MV 形式的 2D 動畫短片。
 
 ---
 
