@@ -28,6 +28,4 @@
 ## 📊 Demo
 [👉 點此觀看 Demo 影片](https://drive.google.com/file/d/1GkzTUIzoY0sLed-Lyp2-eICbSErxyZVk/view?usp=sharing)
 
-或點擊縮圖觀看：
-
 ![](images/render_cover.png)
