@@ -32,6 +32,7 @@
     <td><img src="images/exterior1.png" width="200"></td>
     <td><img src="images/exterior2.png" width="200"></td>
     <td><img src="images/interior5.png" width="200"></td>
+    <td></td>
   </tr>
 
   <!-- 區塊 2: 座位區 -->  <!-- 區塊 3: 櫃台與吧檯 -->
