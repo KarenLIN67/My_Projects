@@ -1,10 +1,10 @@
 # 🎓 林采葳 | AI & Computer Vision Portfolio
 
 ## 🧰 Skills | 技術技能
-- **Programming 語言**: Python (熟練), C (基礎), HTML5
-- **Frameworks 框架**: PyTorch, TensorFlow, MMPose, YOLOv5, OpenCV
-- **Tools 工具**: Git, Jupyter Notebook, Maya, Animate CC, PowerPoint
-- **Languages 語言能力**: 中文 (母語), English (technical reading & writing)
+- **Programming 語言**：Python (熟練), C (基礎), HTML5
+- **Frameworks 框架**：PyTorch, TensorFlow, MMPose, YOLOv5, OpenCV
+- **Tools 工具**：Git, Jupyter Notebook, Maya, Animate CC, PowerPoint
+- **Languages 語言能力**：中文 (母語), English (technical reading & writing)
 
 ---
 
@@ -31,4 +31,4 @@ Maya 與 Animate CC 製作的 3D 建模、動畫與互動遊戲。
 ---
 
 ## ✨ Contact | 聯絡方式
-- 📧 Email: ji310725@gmail.com
+- 📧 Email：ji310725@gmail.com
