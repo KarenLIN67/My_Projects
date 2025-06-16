@@ -48,8 +48,7 @@ python code/風格化.py
 以下為本專案執行過程示範影片：
 [👉 點此觀看 Demo 影片](https://drive.google.com/file/d/1WSdk_P8cQOyDvhP1AAoJEKsUPD1LzJbW/view?usp=sharing)
 
-![Watch the video](images/demo_cover.png)
-
+<img src="images/demo_cover.png" width="300"/>
 
 ## 📊 Demo 圖片示例
 
