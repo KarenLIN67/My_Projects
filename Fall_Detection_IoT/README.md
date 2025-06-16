@@ -39,7 +39,7 @@ python `code/fall_detection.py`
 ---
 
 ## 📊 Demo
-以下為本專案執行過程示範影片：
+以下為本專案簡報說明及執行過程影片：
 [👉 點此觀看 Demo 影片](https://drive.google.com/file/d/1lobTv1jgX47lWRnSClhSc8mQvUKVrcAr/view?usp=drive_link)
 
 <img src="images/demo_cover1.png" width="300"/>
